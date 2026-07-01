@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Anna Stoliar
 
 **Data Analytics | Data Science**
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -52,10 +54,8 @@ I enjoy transforming raw data into meaningful insights, building predictive mode
 
 | Project | Description |
 |---------|-------------|
-| 🛒 **E-commerce Customer Behavior Analysis** | EDA, SQL analysis and conversion funnel analysis of customer behavior. |
-| 🧪 **Marketing A/B Testing** | Statistical hypothesis testing and business interpretation of marketing experiments. |
-| 📈 **Product Analytics** *(Coming Soon)* | Product metrics, cohort analysis, retention and business insights. |
-| 📉 **Customer Churn Prediction** *(Coming Soon)* | Machine learning model for customer churn prediction and business recommendations. |
+| 🛒 **E-commerce Customer Behavior Analysis(https://github.com/Anbirg/ecommerce-customer-behavior-analysis)** | EDA, SQL analysis and conversion funnel analysis of customer behavior. |
+| 🧪 **Marketing A/B Testing(https://github.com/Anbirg/Marketing-A-B-Testing)** | Statistical hypothesis testing and business interpretation of marketing experiments. |
 
 ---
 
@@ -63,10 +63,9 @@ I enjoy transforming raw data into meaningful insights, building predictive mode
 
 | Project | Description |
 |---------|-------------|
-| 💬 **Bank FAQ Chatbot** | NLP chatbot using Sentence Transformers, FAISS and semantic search. |
-| 🧠 **Deep Learning Image Classification** | Binary image classification using Convolutional Neural Networks. |
-| 😏 **Sarcasm Detection** | Comparison of traditional machine learning and deep learning models for NLP. |
-| 📊 **Time Series Forecasting** *(Coming Soon)* | Forecasting business metrics using machine learning and time series models. |
+| 💬 **Bank FAQ Chatbot(https://github.com/Anbirg/Bank-FAQ-Chatbot)** | NLP chatbot using Sentence Transformers, FAISS and semantic search. |
+| 🧠 **Deep Learning Image Classification(https://github.com/Anbirg/deep-learning-image-classification)** | Binary image classification using Convolutional Neural Networks. |
+| 😏 **Sarcasm Detection(https://github.com/Anbirg/Sarcasm-Detection)** | Comparison of traditional machine learning and deep learning models for NLP. |
 
 ---
 
