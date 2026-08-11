@@ -63,7 +63,7 @@ I enjoy transforming raw data into meaningful insights, building predictive mode
 
 | Project | Description |
 |---------|-------------|
-| 💬 **Semantic FAQ Retrieval System(https://github.com/Anbirg/Bank-FAQ-Chatbot)** | NLP chatbot using Sentence Transformers, FAISS and semantic search. |
+| 💬 **Semantic FAQ Retrieval System(https://github.com/Anbirg/Bank-FAQ-Chatbot)** | NLP chatbot using Sentence Transformers and semantic search. |
 | 🧠 **Deep Learning Image Classification(https://github.com/Anbirg/deep-learning-image-classification)** | Binary image classification using Convolutional Neural Networks. |
 | 😏 **Sarcasm Detection(https://github.com/Anbirg/Sarcasm-Detection)** | Comparison of traditional machine learning and deep learning models for NLP. |
 
