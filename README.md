@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anna Stoliar
 
-**AI Engineer | Data Scientist | Data Analyst**
+**Junior Data Analyst |Junior Data Scientist**
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
